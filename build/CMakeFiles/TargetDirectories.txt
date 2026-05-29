@@ -1,0 +1,6 @@
+/Users/markvolkov/Desktop/сессия 4 сем/сис прога/курсач/курсовая сис прога/build/CMakeFiles/dbms_core.dir
+/Users/markvolkov/Desktop/сессия 4 сем/сис прога/курсач/курсовая сис прога/build/CMakeFiles/prog.dir
+/Users/markvolkov/Desktop/сессия 4 сем/сис прога/курсач/курсовая сис прога/build/CMakeFiles/db_storage.dir
+/Users/markvolkov/Desktop/сессия 4 сем/сис прога/курсач/курсовая сис прога/build/CMakeFiles/db_entry.dir
+/Users/markvolkov/Desktop/сессия 4 сем/сис прога/курсач/курсовая сис прога/build/CMakeFiles/edit_cache.dir
+/Users/markvolkov/Desktop/сессия 4 сем/сис прога/курсач/курсовая сис прога/build/CMakeFiles/rebuild_cache.dir
